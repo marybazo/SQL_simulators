@@ -1,5 +1,5 @@
 /*
-Solved task to Top 50 SQL quastion on leetcode.
+Solved task to Top 50 SQL questions on leetcode.
 https://leetcode.com/studyplan/top-sql-50/
 */
 
