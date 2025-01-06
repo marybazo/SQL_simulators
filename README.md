@@ -8,5 +8,5 @@ The tasks in this repository are sourced from the following platforms:
 
 1. [PG Exercises](https://www.pgexercises.com/questions/basic/)  
    - Focuses on fundamental SQL concepts and practical queries.  
-2. [LeetCode SQL Study Plan](https://leetcode.com/studyplan/top-sql-50/)  
+2. [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)  
    - Covers intermediate and advanced SQL queries for real-world applications.
